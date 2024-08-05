@@ -18,7 +18,7 @@
 
   .active{
     #menu{
-    transition: left 0.3s ease-in-out;
+    transition: all 0.6s;
     position: absolute;
     top: 0;
       left: 0;
